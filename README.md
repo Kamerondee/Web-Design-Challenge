@@ -1,5 +1,7 @@
 # Web-Design-Challenge
 
+In this challenge we had to create a web-page that analyzed the graphs with certain weather conditions as follows:
+
 
 Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
